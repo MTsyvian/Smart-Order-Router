@@ -1,0 +1,13 @@
+*.csv
+*.xlsx
+*.log
+__pycache__/
+*.pyc
+.DS_Store
+*.o
+*.obj
+*.out
+*.exe
+cmake-build-debug/
+.idea/
+.vscode/
