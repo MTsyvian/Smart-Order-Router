@@ -106,6 +106,6 @@ Disclaimer: This project is for educational purposes. It demonstrates high-perfo
 ```text
 ├── research/           # ✅ [Python] Data Mining & ML Training
 │   ├── data_collector.py
-│   └── ML_Unit.h  
+│   └── ML_Unit.py 
 │
 └── README.md
